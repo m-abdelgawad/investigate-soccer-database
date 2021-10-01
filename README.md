@@ -10,13 +10,13 @@ It contains data for soccer matches, players, and teams from several European co
 to 2016 Players and Teams' attributes* sourced from EA Sports' FIFA video game series,
 including the weekly updates This soccer database comes from Kaggle and is well suited for data analysis and machine learning.
 
-* The database is stored in a SQLite database, and I accessed its files using the 'DB Browser(SQLite)' software.
+* The database is stored in an SQLite database, and I accessed its files using the 'DB Browser(SQLite)' software.
 * The dataset helped me practice my SQL joins skills.
-* Some column titles was self-explanatory, while others I had to look up them on Kaggle.
+* Some column titles were self-explanatory, while others I had to look up on Kaggle.
 
 ### We will explore the following questions in this project:
 
-* What teams improved the most over the time period?
+* What teams improved the most over time?
 * Which players had the most penalties?
 * Statistics of Players' Age
 * Does The Age of a Player Affect His Overall Rating?
