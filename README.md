@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-I explored The ultimate Soccer database for data analysis and machine learning!
+I explored The ultimate Soccer database for data analysis and machine learning, in this project.
 The database contains data for soccer matches, players, and teams from several European countries from 2008 to 2016.
 
 ### The database includes:
