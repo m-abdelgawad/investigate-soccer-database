@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-Exploring The ultimate Soccer database for data analysis and machine learning!
-It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016.
+I explored The ultimate Soccer database for data analysis and machine learning!
+The database contains data for soccer matches, players, and teams from several European countries from 2008 to 2016.
 
 ### The database includes:
 +25,000 matches +10,000 players 11 European Countries with their lead championship Seasons 2008
